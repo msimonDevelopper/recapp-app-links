@@ -6,7 +6,8 @@
       "package_name": "com.simon.dance_recap",
       "sha256_cert_fingerprints": [
         "64:60:d6:e4:01:b2:16:4c:59:4b:d6:51:83:eb:54:fb:c5:a4:ab:6b:00:9a:e2:70:f8:61:31:2f:10:ca:78:3e",
-		"df:f5:46:66:9e:30:c4:52:c4:65:14:a3:32:7b:b0:3f:e2:30:b6:94:4a:4b:cd:f1:1a:27:e1:ed:6d:8a:ac:f0"  // Remplace par le SHA-256 de ton certificat
+		    "df:f5:46:66:9e:30:c4:52:c4:65:14:a3:32:7b:b0:3f:e2:30:b6:94:4a:4b:cd:f1:1a:27:e1:ed:6d:8a:ac:f0",
+        "DF:AA:51:84:C4:0E:20:B8:CD:F0:BB:0B:81:D8:F5:69:FD:4A:99:14:A3:11:E9:7D:C3:77:54:37:A3:01:C8:73"
       ]
     }
   }
